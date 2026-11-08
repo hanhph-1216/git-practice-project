@@ -1,3 +1,3 @@
 tets case 1
-mail : pham.hong.hanh@sun-asterisk.com
-Phone: 09012345678
+mail : pham.hong.hanh+edit@sun-asterisk.com
+Phone: 090123456789
